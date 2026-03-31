@@ -114,13 +114,13 @@ export default function Home() {
           </p>
 
           <div className="flex justify-center gap-6 text-sm">
-            <a href="https://instagram.com/TU_USUARIO" target="_blank">
+            <a href="https://www.instagram.com/pcyelectricidadzonasur/" target="_blank">
               Instagram
             </a>
-            <a href="https://www.google.com/maps" target="_blank">
+            <a href="https://maps.app.goo.gl/wEgjDAen6zv22iTj6" target="_blank">
               Google
             </a>
-            <a href="https://facebook.com/TU_PAGINA" target="_blank">
+            <a href="https://www.facebook.com/pcyelectricidadzonasur/" target="_blank">
               Facebook
             </a>
             <a href={WHATSAPP} target="_blank">
