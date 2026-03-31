@@ -7,7 +7,7 @@ export const metadata = {
 };
 
 const WHATSAPP =
-  "https://wa.me/5491173625098?text=Hola%20te%20consulto%20por%20servicio";
+  "https://wa.me/5491173625098?text=Hola!%20tengo%20una%20consulta%20desde%20la%20web";
 
 export default function Home() {
   return (
@@ -26,7 +26,7 @@ export default function Home() {
       {/* HERO */}
       <section className="w-full bg-gradient-to-r from-blue-600 to-orange-500 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold max-w-xl mx-auto">
-          Soluciono tu PC, celular o problemas eléctricos en el día
+          Soluciono tu PC o problemas eléctricos en el día
         </h1>
         <p className="mt-4 text-lg">
           Servicio a domicilio en Zona Sur. Rápido, claro y sin vueltas.
@@ -74,7 +74,7 @@ export default function Home() {
           <li>✔ Instalación de programas</li>
           <li>✔ Electricidad domiciliaria básica</li>
           <li>✔ Instalación de luminarias</li>
-          <li className="mt-4 font-semibold">📱 Celulares:</li>
+          <li className="mt-4 font-semibold">📱 Celulares (servicio básico):</li>
           <li>✔ Cambio de módulo (pantalla)</li>
           <li>✔ Cambio de batería</li>
           <li>✔ Reparación de pin de carga</li>
